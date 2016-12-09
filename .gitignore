@@ -1,0 +1,12 @@
+
+*.jar
+
+saves/*
+
+journeymap/*
+
+usernamecache.json
+
+usercache.json
+
+BotaniaVars.dat
