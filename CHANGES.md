@@ -1,8 +1,9 @@
 
-Change Log
-0.1.2
+# Change Log
 
-    Removed Inventory Tweaks
-    Removed Ranged Pumps
-    Removed Refined storage
+##0.1.2
+
+- Removed Inventory Tweaks
+- Removed Ranged Pumps
+- Removed Refined storage
 
