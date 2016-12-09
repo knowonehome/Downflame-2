@@ -3,8 +3,8 @@
     "backups_to_keep": 12,
     "display_file_size": true,
     "enabled": true,
-    "compression_level": 1,
     "backup_timer": 2.0,
+    "compression_level": 1,
     "folder": "",
     "use_separate_thread": true
   },
@@ -24,19 +24,6 @@
     "chunk_claiming": true,
     "safe_spawn": false,
     "spawn_area_in_sp": false
-  },
-  "commands": {
-    "chunks": true,
-    "trash_can": true,
-    "js": true,
-    "warp": true,
-    "tpl": true,
-    "inv": true,
-    "back": true,
-    "server_info": true,
-    "spawn": true,
-    "home": true,
-    "kickme": true
   },
   "general": {
     "auto_restart": false,
@@ -59,6 +46,19 @@
     "ranks": {
       "enabled": false
     }
+  },
+  "commands": {
+    "chunks": true,
+    "trash_can": true,
+    "js": true,
+    "warp": true,
+    "tpl": true,
+    "inv": true,
+    "back": true,
+    "server_info": true,
+    "spawn": true,
+    "home": true,
+    "kickme": true
   },
   "webapi": {
     "port": 4509,
