@@ -1,0 +1,45 @@
+[
+  {
+    "uuid": "9608ae3f-42e6-476e-a4ff-689030e97a8a",
+    "name": "knowonehome",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "9608ae3f-42e6-476e-a4ff-689030e97a8a",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [],
+      "invites": []
+    },
+    "playedLore": false,
+    "receivedBook": false,
+    "groupData": {},
+    "deaths": {
+      "9608ae3f-42e6-476e-a4ff-689030e97a8a": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
