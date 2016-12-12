@@ -67,3 +67,7 @@
 - Updated rftoolsdim-1.10-4.45 → rftoolsdim-1.1x-4.51
 - Updated shetiphiancore-1.10.0-3.3.5 → shetiphiancore-1.10.0-3.3.6
 - Updated theoneprobe-1.10-1.3.2 → theoneprobe-1.10-1.3.3 
+
+##0.1.4
+
+- Re-Added deepresonance-1.1x-1.4.1 to pack
